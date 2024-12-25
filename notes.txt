@@ -1,0 +1,10 @@
+1 ---> install python on your system
+2 ---> install pip on your system
+3 ---> run python -m venv env on terminal
+4 ---> activate env on terminal using enc\Scripts\activate
+5 ---> install Django
+
+Run all those below commands in terminal
+
+django-admin --version
+django-admin startproject myapp
